@@ -3,8 +3,6 @@ layout: default
 title: home
 ---
 
-# mxreal64
-
 technical blog focusing on systems engineering, embedded security, and modern c++.
 
 ## articles
